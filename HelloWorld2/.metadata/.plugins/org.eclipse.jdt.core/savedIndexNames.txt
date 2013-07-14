@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+C:\Users\DELL\Documents\GitHub\Android-Examples\HelloWorld2\.metadata\.plugins\org.eclipse.jdt.core
+1726895595.index
+3733832246.index
+2380175872.index
